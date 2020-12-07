@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/css/main.3aff30b2.chunk.css",
+    "main.js": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/js/main.e7cbb329.chunk.js",
+    "main.js.map": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/js/main.e7cbb329.chunk.js.map",
+    "runtime-main.js": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/js/runtime-main.fe3b7b1d.js",
+    "runtime-main.js.map": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/js/runtime-main.fe3b7b1d.js.map",
+    "static/js/2.8c349d0f.chunk.js": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/js/2.8c349d0f.chunk.js",
+    "static/js/2.8c349d0f.chunk.js.map": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/js/2.8c349d0f.chunk.js.map",
+    "static/js/3.7e2bfeda.chunk.js": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/js/3.7e2bfeda.chunk.js",
+    "static/js/3.7e2bfeda.chunk.js.map": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/js/3.7e2bfeda.chunk.js.map",
+    "index.html": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/index.html",
+    "static/css/main.3aff30b2.chunk.css.map": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/css/main.3aff30b2.chunk.css.map",
+    "static/js/2.8c349d0f.chunk.js.LICENSE.txt": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/js/2.8c349d0f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/media/bg-intro-desktop.059183ee.png",
+    "static/media/icon-error.b72f792e.svg": "/Sanideth/Intro-Component-With-Sign-Up-Form-with-React/static/media/icon-error.b72f792e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe3b7b1d.js",
+    "static/js/2.8c349d0f.chunk.js",
+    "static/css/main.3aff30b2.chunk.css",
+    "static/js/main.e7cbb329.chunk.js"
+  ]
+}

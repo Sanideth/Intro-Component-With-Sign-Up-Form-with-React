@@ -1,0 +1,40 @@
+:root {
+  --color-primary-red: hsl(0, 100%, 74%);
+  --color-primary-green: hsl(154, 59%, 51%);
+  --color-accent-blue: hsl(248, 32%, 49%);
+  --color-neutral-dark-blue: hsl(249, 10%, 26%);
+  --color-neutral-grayish-blue: hsl(246, 25%, 77%);
+}
+
+$bp-big: 62.5em; //bp at 1000px
+$bp-medium: 53em; //bp at 848px
+$bp-small: 37.5em; //bp at 600px
+$bp-smallest: 25em; //bp at 400px
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.6rem;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./img/bg-intro-desktop.png);
+  background-color: var(--color-primary-red);
+}
+
+a:visited,
+a:link {
+  text-decoration: none;
+}

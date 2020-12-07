@@ -1,0 +1,47 @@
+.container {
+  max-width: 130rem;
+  margin: auto 0;
+}
+
+.heading-primary {
+  color: #fff;
+  font-size: 5rem;
+  line-height: 1.1;
+
+  @media only screen and (max-width: $bp-medium) {
+    font-size: 4rem;
+  }
+  @media only screen and (max-width: $bp-smallest) {
+    font-size: 3rem;
+  }
+}
+
+.btn {
+  cursor: pointer;
+  border: none;
+}
+
+.btn-submit {
+  padding: 1.2em 0;
+  width: 100%;
+  background-color: var(--color-primary-green);
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  color: #fff;
+  text-transform: uppercase;
+  box-shadow: 0 5px 0 rgba(56, 204, 140, 0.5);
+  transition: all 0.1s;
+
+  &:active {
+    box-shadow: none;
+    transform: translateY(5px);
+  }
+  &:focus {
+    outline: none;
+  }
+  &:hover {
+    opacity: 0.9;
+  }
+}
